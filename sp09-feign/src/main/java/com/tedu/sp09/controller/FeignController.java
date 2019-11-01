@@ -59,4 +59,4 @@ public class FeignController {
 	public JsonResult addOrder() {
 		return orderService.addOrder();
 	}
-}
+} 
